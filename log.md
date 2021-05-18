@@ -1,30 +1,23 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+### Day 0: 18 May 2021 
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link to work:** [Calculator App](http://www.example.com)
-
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Today's Progress**: Did some planning and decided on a few things to do - will focus on Python.  I set up accounts and the git reposity. Some goals I'd like to work towards:
+      - Become confident with Python
+      - Create a interface for my CFG project
+      - Process some shapefiles/rasters using Python
+      - Learn about how multiple languagues interact with eachother/tech infrastructure
 
 
-### Day 1: June 27, Monday
+project ideas: https://www.dreamincode.net/forums/topic/78802-martyr2s-mega-project-ideas-list/
+           https://www.practicepython.org/
+           https://edabit.com/challenges/python3
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+           
+**Thoughts**: not sure i quite get how Github works yet so need to find a tutorial. T
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Link(s) to work**: 
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+
+### Day 1: 
