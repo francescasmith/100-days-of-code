@@ -20,4 +20,12 @@ project ideas: https://www.dreamincode.net/forums/topic/78802-martyr2s-mega-proj
 **Link(s) to work**: 
 
 
-### Day 1: 
+### Day 1: 19 May 2021
+
+**Today's Progress**: At work I often have list of items in excel that i need to use in an SQL statement. Thought i would try and automate this. 
+
+
+**Thoughts**: feels good to be solving a real problem. The for/while loops were defintley trial and error but find i learn most from things i do wrong. Harder part will be reading from a file - will do tomorrow. 
+
+
+**Link(s) to work**: in my pycharm project
