@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+Template:
+### Day X: XXXX 2021 
+
+**Today's Progress**:
+
+
+**Thoughts**:
+
+
+**Link(s) to work**:
+
 
 ### Day 0: 18 May 2021 
 
@@ -29,3 +40,26 @@ project ideas: https://www.dreamincode.net/forums/topic/78802-martyr2s-mega-proj
 
 
 **Link(s) to work**: in my pycharm project
+
+
+### Day 2: 20 May 2021 
+
+**Today's Progress**: Did a class with Code First Girls on Web devlopment - learnt HTML and made an about me page
+
+
+**Thoughts**: enjoyed it - can already tell i love the backend more. Its good to know this though as it will make me a better coder all around. loved the analogy of HTML is  the bones, CSS is the skin and JavaScript is the nervous system.
+
+
+**Link(s) to work**:
+
+### Day 3: 24 May 2021 
+
+**Today's Progress**: began freecodecamps python course
+
+
+**Thoughts**: learnt about hardware - really useful to know how stuff is linked.
+
+
+**Link(s) to work**:
+
+
